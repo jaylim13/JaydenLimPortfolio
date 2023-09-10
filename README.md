@@ -1,2 +1,2 @@
 # DracoJimmers
-This project will serve as a digital extended resume for me to showcase my qualities to the world. 
+This project will serve as progress tracking app for me to document and graphically display my physical aptitude progression. 
